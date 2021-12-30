@@ -1,0 +1,8 @@
+[
+   {
+    "remote": "github",
+    "repository": "pkm774/kernel_asus_sdm660",
+    "target_path": "vendor/asus",
+    "branch": "master"
+  },
+]
